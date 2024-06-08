@@ -518,12 +518,12 @@ footer{
         font-size: 32px;
     }
 
-    .proyecto__encriptar , .proyecto__codigo{
+    .proyecto__encriptar , .proyecto__barberia{
         flex-direction: row;
         justify-content: center;
     }
 
-    .proyecto__ahorcado , .proyecto__ahorcado2{
+    .proyecto__numero , .proyecto__sonidos{
         flex-direction: row-reverse;
     }
     
@@ -533,7 +533,7 @@ footer{
         box-shadow: 0px 0px 10px #0006;
     }
 
-    .ahorcado , .ahorcado2{
+    .sonido , .numero_secreto{
         text-align: right;
     }
 
