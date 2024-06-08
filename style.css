@@ -86,7 +86,7 @@ header{
 
 .descripcion__link{
     display: flex;
-    gap:50px;
+    gap:20px;
     font-size: 14px;
     font-weight:600;
 }
