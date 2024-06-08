@@ -334,6 +334,9 @@ footer{
     header{
         padding: 32px;
     }
+    .menu-list{
+        gap: 12px;
+    }
 
     /*seccion descripcion*/
     
@@ -416,7 +419,6 @@ footer{
         flex-direction: row;
         font-size: 16px;
         font-weight: 500;
-        gap: 15px;
     }
 
     .menu-list-item a:hover{
@@ -446,7 +448,8 @@ footer{
     }
 
     .descripcion__img{
-        width: 350px;
+        width: 300px;
+        margin-top: 50px;
     }
 
     #sobre__mi{
@@ -480,8 +483,8 @@ footer{
     }
 
     .skills__item, .hobbies__item{
-        width: 150px;
-        height: 150px;
+        width: 140px;
+        height: 120px;
         padding: 15px;
     }
 
@@ -497,8 +500,8 @@ footer{
     }
 
     .formacion__lista{
-        width: 312px;
-        height: 200px;   
+        width: 290px;
+        height: 150px;   
     }
 
     .formacion__subtitulo{
@@ -525,8 +528,8 @@ footer{
     }
     
     #proyectos img {
-        width: 700px;
-        height: 406px;
+        width: 630px;
+        height: 350px;
         box-shadow: 0px 0px 10px #0006;
     }
 
@@ -555,7 +558,7 @@ footer{
 
     #contacto img {
         display: flex;
-        Width:464px;
+        Width:300px;
         height:593px;
         align-self: center;
     }
@@ -564,12 +567,12 @@ footer{
     }
 
     #contacto{
-        padding: 50px 64px;
+        padding: 64px;
         display: flex;
         flex-direction: row;
         justify-content: center;
     }
-
+    
     form{
         gap: 1px;
     }
